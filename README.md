@@ -59,7 +59,6 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 | 7 | Transformations, multicollinearity, diagnostics, unusual and influential data |
 | 8 | Bootstrapping |
 
-The lecture learning objectives are included in [lec_learning_objectives.md](lec_learning_objectives.md).
 
 ## Lab Schedule
 
