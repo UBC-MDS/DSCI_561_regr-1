@@ -18,20 +18,6 @@ By the end of the course, students are expected to:
 - Convert categorical predictors for use in a linear regression model.
 
 
-## Teaching Team
-
-At your service!
-
-| Position | Name  | Slack Handle | GHE Handle |
-| :------: | :---: | :----------: | :--------: |
-| Lecture Instructor | Gabriela Cohen Freue | `@gcohenfr` | `@gcohenfr` |
-| Lab Instructor     | Vincenzo Coia   | `@vcoia` | `@vcoia` |
-| Teaching Assistant | Flora Liu       | `@Flora Liu` | `@floraliu` | 
-| Teaching Assistant | Sasha Maslova   | `@Sasha Maslova` | `@sasha113` | 
-| Teaching Assistant | Gursimran Singh |
-
-Office hours begin the week of November 19, 2018:
-
 ## Assessments
 
 This is an __assignment-based course__. You'll be evaluated as follows:
@@ -58,16 +44,6 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 | 6 | Goodness of fit, estimation error, prediction error |
 | 7 | Transformations, multicollinearity, diagnostics, unusual and influential data |
 | 8 | Bootstrapping |
-
-
-## Lab Schedule
-
-| Lab | Topic |
-|-----|-------|
-| 1   | The regression setting: the leap from univariate inference |
-| 2   | The scope of linear regression |
-| 3   | Prediction, and evaluating model goodness |
-| 4   | Influence on the least squares, and bootstrap |
 
 ## Annotated Resources
 
